@@ -1,4 +1,4 @@
-# Default setting
+# Default approach
 
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the training like `training-ci-cd`.
 
